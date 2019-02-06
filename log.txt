@@ -1,0 +1,914 @@
+Checking family Familie1
+Verifying individual 1
+Getting parents
+
+Getting children
+3,4,5,6,7,8,9,10,11,12,13,14
+Getting grand parents
+
+Getting cousins
+
+Found parents ''
+Has no mother
+Has no father
+Has child 3
+Has child 4
+Has child 5
+Has child 6
+Has child 7
+Has child 8
+Has child 9
+Has child 10
+Has child 11
+Has child 12
+Has child 13
+Has child 14
+Found grand parents ''
+Verifying individual 2
+Getting parents
+93,94
+Getting children
+3,4,5,6,7,8,9,10,11,12,13,14
+Getting grand parents
+
+Getting cousins
+
+Found parents '93,94'
+Has mother '94'
+Mother found correctly in parents
+Has father 93
+Father found correctly in parents
+Has child 3
+Has child 4
+Has child 5
+Has child 6
+Has child 7
+Has child 8
+Has child 9
+Has child 10
+Has child 11
+Has child 12
+Has child 13
+Has child 14
+Found grand parents ''
+Verifying individual 3
+Getting parents
+1,2
+Getting children
+54,55
+Getting grand parents
+93,94
+Getting cousins
+
+Found parents '1,2'
+Has mother '2'
+Mother found correctly in parents
+Has father 1
+Father found correctly in parents
+Has child 54
+Has child 55
+Found grand parents '93,94'
+Verifying individual 4
+Getting parents
+1,2
+Getting children
+
+Getting grand parents
+93,94
+Getting cousins
+
+Found parents '1,2'
+Has mother '2'
+Mother found correctly in parents
+Has father 1
+Father found correctly in parents
+Found grand parents '93,94'
+Verifying individual 5
+Getting parents
+1,2
+Getting children
+
+Getting grand parents
+93,94
+Getting cousins
+
+Found parents '1,2'
+Has mother '2'
+Mother found correctly in parents
+Has father 1
+Father found correctly in parents
+Found grand parents '93,94'
+Verifying individual 6
+Getting parents
+1,2
+Getting children
+
+Getting grand parents
+93,94
+Getting cousins
+
+Found parents '1,2'
+Has mother '2'
+Mother found correctly in parents
+Has father 1
+Father found correctly in parents
+Found grand parents '93,94'
+Verifying individual 7
+Getting parents
+1,2
+Getting children
+
+Getting grand parents
+93,94
+Getting cousins
+
+Found parents '1,2'
+Has mother '2'
+Mother found correctly in parents
+Has father 1
+Father found correctly in parents
+Found grand parents '93,94'
+Verifying individual 8
+Getting parents
+1,2
+Getting children
+
+Getting grand parents
+93,94
+Getting cousins
+
+Found parents '1,2'
+Has mother '2'
+Mother found correctly in parents
+Has father 1
+Father found correctly in parents
+Found grand parents '93,94'
+Verifying individual 9
+Getting parents
+1,2
+Getting children
+
+Getting grand parents
+93,94
+Getting cousins
+
+Found parents '1,2'
+Has mother '2'
+Mother found correctly in parents
+Has father 1
+Father found correctly in parents
+Found grand parents '93,94'
+Verifying individual 10
+Getting parents
+1,2
+Getting children
+
+Getting grand parents
+93,94
+Getting cousins
+
+Found parents '1,2'
+Has mother '2'
+Mother found correctly in parents
+Has father 1
+Father found correctly in parents
+Found grand parents '93,94'
+Verifying individual 11
+Getting parents
+1,2
+Getting children
+
+Getting grand parents
+93,94
+Getting cousins
+
+Found parents '1,2'
+Has mother '2'
+Mother found correctly in parents
+Has father 1
+Father found correctly in parents
+Found grand parents '93,94'
+Verifying individual 12
+Getting parents
+1,2
+Getting children
+
+Getting grand parents
+93,94
+Getting cousins
+
+Found parents '1,2'
+Has mother '2'
+Mother found correctly in parents
+Has father 1
+Father found correctly in parents
+Found grand parents '93,94'
+Verifying individual 13
+Getting parents
+1,2
+Getting children
+
+Getting grand parents
+93,94
+Getting cousins
+
+Found parents '1,2'
+Has mother '2'
+Mother found correctly in parents
+Has father 1
+Father found correctly in parents
+Found grand parents '93,94'
+Verifying individual 14
+Getting parents
+1,2
+Getting children
+16,17,18,19,20,21
+Getting grand parents
+93,94
+Getting cousins
+
+Found parents '1,2'
+Has mother '2'
+Mother found correctly in parents
+Has father 1
+Father found correctly in parents
+Has child 16
+Has child 17
+Has child 18
+Has child 19
+Has child 20
+Has child 21
+Found grand parents '93,94'
+Verifying individual 15
+Getting parents
+22,23
+Getting children
+16,17,18,19,20,21
+Getting grand parents
+
+Getting cousins
+
+Found parents '22,23'
+Has mother '23'
+Mother found correctly in parents
+Has father 22
+Father found correctly in parents
+Has child 16
+Has child 17
+Has child 18
+Has child 19
+Has child 20
+Has child 21
+Found grand parents ''
+Verifying individual 16
+Getting parents
+14,15
+Getting children
+31,32,33,34,35
+Getting grand parents
+1,2,22,23
+Getting cousins
+78,80,82,92,83,88,54,55,89,91,62,63,71
+Found parents '14,15'
+Has mother '15'
+Mother found correctly in parents
+Has father 14
+Father found correctly in parents
+Has child 31
+Has child 32
+Has child 33
+Has child 34
+Has child 35
+Found grand parents '1,2,22,23'
+Verifying individual 17
+Getting parents
+14,15
+Getting children
+37,38
+Getting grand parents
+1,2,22,23
+Getting cousins
+78,80,82,92,83,88,54,55,89,91,62,63,71
+Found parents '14,15'
+Has mother '15'
+Mother found correctly in parents
+Has father 14
+Father found correctly in parents
+Has child 37
+Has child 38
+Found grand parents '1,2,22,23'
+Verifying individual 18
+Getting parents
+14,15
+Getting children
+40,41,42
+Getting grand parents
+1,2,22,23
+Getting cousins
+78,80,82,92,83,88,54,55,89,91,62,63,71
+Found parents '14,15'
+Has mother '15'
+Mother found correctly in parents
+Has father 14
+Father found correctly in parents
+Has child 40
+Has child 41
+Has child 42
+Found grand parents '1,2,22,23'
+Verifying individual 19
+Getting parents
+14,15
+Getting children
+45,46
+Getting grand parents
+1,2,22,23
+Getting cousins
+78,80,82,92,83,88,54,55,89,91,62,63,71
+Found parents '14,15'
+Has mother '15'
+Mother found correctly in parents
+Has father 14
+Father found correctly in parents
+Has child 45
+Has child 46
+Found grand parents '1,2,22,23'
+Verifying individual 20
+Getting parents
+14,15
+Getting children
+48
+Getting grand parents
+1,2,22,23
+Getting cousins
+78,80,82,92,83,88,54,55,89,91,62,63,71
+Found parents '14,15'
+Has mother '15'
+Mother found correctly in parents
+Has father 14
+Father found correctly in parents
+Has child 48
+Found grand parents '1,2,22,23'
+Verifying individual 21
+Getting parents
+14,15
+Getting children
+50
+Getting grand parents
+1,2,22,23
+Getting cousins
+78,80,82,92,83,88,54,55,89,91,62,63,71
+Found parents '14,15'
+Has mother '15'
+Mother found correctly in parents
+Has father 14
+Father found correctly in parents
+Has child 50
+Found grand parents '1,2,22,23'
+Verifying individual 22
+Getting parents
+
+Getting children
+15,24,25,26,27,28,29
+Getting grand parents
+
+Getting cousins
+
+Found parents ''
+Has no mother
+Has no father
+Has child 15
+Has child 24
+Has child 25
+Has child 26
+Has child 27
+Has child 28
+Has child 29
+Found grand parents ''
+Verifying individual 23
+Getting parents
+
+Getting children
+15,24,25,26,27,28,29
+Getting grand parents
+
+Getting cousins
+
+Found parents ''
+Has no mother
+Has no father
+Has child 15
+Has child 24
+Has child 25
+Has child 26
+Has child 27
+Has child 28
+Has child 29
+Found grand parents ''
+Verifying individual 24
+Getting parents
+22,23
+Getting children
+91,92
+Getting grand parents
+
+Getting cousins
+
+Found parents '22,23'
+Has mother '23'
+Mother found correctly in parents
+Has father 22
+Father found correctly in parents
+Has child 91
+Has child 92
+Found grand parents ''
+Verifying individual 25
+Getting parents
+22,23
+Getting children
+78,80
+Getting grand parents
+
+Getting cousins
+
+Found parents '22,23'
+Has mother '23'
+Mother found correctly in parents
+Has father 22
+Father found correctly in parents
+Has child 78
+Has child 80
+Found grand parents ''
+Verifying individual 26
+Getting parents
+22,23
+Getting children
+82,83
+Getting grand parents
+
+Getting cousins
+
+Found parents '22,23'
+Has mother '23'
+Mother found correctly in parents
+Has father 22
+Father found correctly in parents
+Has child 82
+Has child 83
+Found grand parents ''
+Verifying individual 27
+Getting parents
+22,23
+Getting children
+88,89
+Getting grand parents
+
+Getting cousins
+
+Found parents '22,23'
+Has mother '23'
+Mother found correctly in parents
+Has father 22
+Father found correctly in parents
+Has child 88
+Has child 89
+Found grand parents ''
+Verifying individual 28
+Getting parents
+22,23
+Getting children
+62,63
+Getting grand parents
+
+Getting cousins
+
+Found parents '22,23'
+Has mother '23'
+Mother found correctly in parents
+Has father 22
+Father found correctly in parents
+Has child 62
+Has child 63
+Found grand parents ''
+Verifying individual 29
+Getting parents
+22,23
+Getting children
+71
+Getting grand parents
+
+Getting cousins
+
+Found parents '22,23'
+Has mother '23'
+Mother found correctly in parents
+Has father 22
+Father found correctly in parents
+Has child 71
+Found grand parents ''
+Verifying individual 31
+Getting parents
+16
+Getting children
+
+Getting grand parents
+14,15
+Getting cousins
+45,46,48,50,37,38,40,41,42
+Found parents '16'
+Has mother '16'
+Mother found correctly in parents
+Has no father
+Found grand parents '14,15'
+Verifying individual 32
+Getting parents
+16
+Getting children
+
+Getting grand parents
+14,15
+Getting cousins
+45,46,48,50,37,38,40,41,42
+Found parents '16'
+Has mother '16'
+Mother found correctly in parents
+Has no father
+Found grand parents '14,15'
+Verifying individual 33
+Getting parents
+16
+Getting children
+
+Getting grand parents
+14,15
+Getting cousins
+45,46,48,50,37,38,40,41,42
+Found parents '16'
+Has mother '16'
+Mother found correctly in parents
+Has no father
+Found grand parents '14,15'
+Verifying individual 34
+Getting parents
+16
+Getting children
+
+Getting grand parents
+14,15
+Getting cousins
+45,46,48,50,37,38,40,41,42
+Found parents '16'
+Has mother '16'
+Mother found correctly in parents
+Has no father
+Found grand parents '14,15'
+Verifying individual 35
+Getting parents
+16
+Getting children
+
+Getting grand parents
+14,15
+Getting cousins
+45,46,48,50,37,38,40,41,42
+Found parents '16'
+Has mother '16'
+Mother found correctly in parents
+Has no father
+Found grand parents '14,15'
+Verifying individual 37
+Getting parents
+17
+Getting children
+
+Getting grand parents
+14,15
+Getting cousins
+32,45,46,33,34,48,50,35,40,41,42,31
+Found parents '17'
+Has mother '17'
+Mother found correctly in parents
+Has no father
+Found grand parents '14,15'
+Verifying individual 38
+Getting parents
+17
+Getting children
+
+Getting grand parents
+14,15
+Getting cousins
+32,45,46,33,34,48,50,35,40,41,42,31
+Found parents '17'
+Has mother '17'
+Mother found correctly in parents
+Has no father
+Found grand parents '14,15'
+Verifying individual 40
+Getting parents
+18
+Getting children
+
+Getting grand parents
+14,15
+Getting cousins
+32,45,46,33,34,48,50,35,37,38,31
+Found parents '18'
+Has mother '18'
+Mother found correctly in parents
+Has no father
+Found grand parents '14,15'
+Verifying individual 41
+Getting parents
+18
+Getting children
+
+Getting grand parents
+14,15
+Getting cousins
+32,45,46,33,34,48,50,35,37,38,31
+Found parents '18'
+Has mother '18'
+Mother found correctly in parents
+Has no father
+Found grand parents '14,15'
+Verifying individual 42
+Getting parents
+18
+Getting children
+
+Getting grand parents
+14,15
+Getting cousins
+32,45,46,33,34,48,50,35,37,38,31
+Found parents '18'
+Has mother '18'
+Mother found correctly in parents
+Has no father
+Found grand parents '14,15'
+Verifying individual 45
+Getting parents
+19
+Getting children
+
+Getting grand parents
+14,15
+Getting cousins
+32,33,34,48,50,35,37,38,40,41,42,31
+Found parents '19'
+Has mother '19'
+Mother found correctly in parents
+Has no father
+Found grand parents '14,15'
+Verifying individual 46
+Getting parents
+19
+Getting children
+
+Getting grand parents
+14,15
+Getting cousins
+32,33,34,48,50,35,37,38,40,41,42,31
+Found parents '19'
+Has mother '19'
+Mother found correctly in parents
+Has no father
+Found grand parents '14,15'
+Verifying individual 48
+Getting parents
+20
+Getting children
+
+Getting grand parents
+14,15
+Getting cousins
+32,45,46,33,34,50,35,37,38,40,41,42,31
+Found parents '20'
+Has mother '20'
+Mother found correctly in parents
+Has no father
+Found grand parents '14,15'
+Verifying individual 50
+Getting parents
+21
+Getting children
+
+Getting grand parents
+14,15
+Getting cousins
+32,45,46,33,34,48,35,37,38,40,41,42,31
+Found parents '21'
+Has no mother
+Has father 21
+Father found correctly in parents
+Found grand parents '14,15'
+Verifying individual 54
+Getting parents
+3
+Getting children
+
+Getting grand parents
+1,2
+Getting cousins
+17,16,18,19,20,21
+Found parents '3'
+Has no mother
+Has father 3
+Father found correctly in parents
+Found grand parents '1,2'
+Verifying individual 55
+Getting parents
+3
+Getting children
+
+Getting grand parents
+1,2
+Getting cousins
+17,16,18,19,20,21
+Found parents '3'
+Has no mother
+Has father 3
+Father found correctly in parents
+Found grand parents '1,2'
+Verifying individual 62
+Getting parents
+28
+Getting children
+
+Getting grand parents
+22,23
+Getting cousins
+78,80,82,83,17,88,16,89,18,91,19,92,20,71,21
+Found parents '28'
+Has mother '28'
+Mother found correctly in parents
+Has no father
+Found grand parents '22,23'
+Verifying individual 63
+Getting parents
+28
+Getting children
+
+Getting grand parents
+22,23
+Getting cousins
+78,80,82,83,17,88,16,89,18,91,19,92,20,71,21
+Found parents '28'
+Has mother '28'
+Mother found correctly in parents
+Has no father
+Found grand parents '22,23'
+Verifying individual 71
+Getting parents
+29
+Getting children
+
+Getting grand parents
+22,23
+Getting cousins
+78,80,82,63,83,17,88,16,89,18,91,62,19,92,20,21
+Found parents '29'
+Has mother '29'
+Mother found correctly in parents
+Has no father
+Found grand parents '22,23'
+Verifying individual 78
+Getting parents
+25
+Getting children
+
+Getting grand parents
+22,23
+Getting cousins
+82,63,83,17,88,16,89,18,91,62,19,92,20,71,21
+Found parents '25'
+Has mother '25'
+Mother found correctly in parents
+Has no father
+Found grand parents '22,23'
+Verifying individual 80
+Getting parents
+25
+Getting children
+
+Getting grand parents
+22,23
+Getting cousins
+82,63,83,17,88,16,89,18,91,62,19,92,20,71,21
+Found parents '25'
+Has mother '25'
+Mother found correctly in parents
+Has no father
+Found grand parents '22,23'
+Verifying individual 82
+Getting parents
+26
+Getting children
+
+Getting grand parents
+22,23
+Getting cousins
+78,80,63,17,88,16,89,18,91,62,19,92,20,71,21
+Found parents '26'
+Has mother '26'
+Mother found correctly in parents
+Has no father
+Found grand parents '22,23'
+Verifying individual 83
+Getting parents
+26
+Getting children
+
+Getting grand parents
+22,23
+Getting cousins
+78,80,63,17,88,16,89,18,91,62,19,92,20,71,21
+Found parents '26'
+Has mother '26'
+Mother found correctly in parents
+Has no father
+Found grand parents '22,23'
+Verifying individual 88
+Getting parents
+27
+Getting children
+
+Getting grand parents
+22,23
+Getting cousins
+78,80,82,63,83,17,16,18,91,62,19,92,20,71,21
+Found parents '27'
+Has mother '27'
+Mother found correctly in parents
+Has no father
+Found grand parents '22,23'
+Verifying individual 89
+Getting parents
+27
+Getting children
+
+Getting grand parents
+22,23
+Getting cousins
+78,80,82,63,83,17,16,18,91,62,19,92,20,71,21
+Found parents '27'
+Has mother '27'
+Mother found correctly in parents
+Has no father
+Found grand parents '22,23'
+Verifying individual 91
+Getting parents
+24
+Getting children
+
+Getting grand parents
+22,23
+Getting cousins
+78,80,82,83,17,88,16,89,18,62,19,63,20,71,21
+Found parents '24'
+Has no mother
+Has father 24
+Father found correctly in parents
+Found grand parents '22,23'
+Verifying individual 92
+Getting parents
+24
+Getting children
+
+Getting grand parents
+22,23
+Getting cousins
+78,80,82,83,17,88,16,89,18,62,19,63,20,71,21
+Found parents '24'
+Has no mother
+Has father 24
+Father found correctly in parents
+Found grand parents '22,23'
+Verifying individual 93
+Getting parents
+
+Getting children
+2
+Getting grand parents
+
+Getting cousins
+
+Found parents ''
+Has no mother
+Has no father
+Has child 2
+Found grand parents ''
+Verifying individual 94
+Getting parents
+
+Getting children
+2
+Getting grand parents
+
+Getting cousins
+
+Found parents ''
+Has no mother
+Has no father
+Has child 2
+Found grand parents ''
+------
