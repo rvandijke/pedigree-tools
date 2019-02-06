@@ -31,8 +31,11 @@ The following rules are applied (in this order):
 ## File Format
 
 - Supported file format is CSV only
-- Column headers must match: `FID,Target,IndivID,FathID,MothID,Sex 1=m / 2=v,Twin,Dead,Age,Yob,diag1,diag2,diag3,diag4,diag5`
-  - Specify as many diag* fields as required
+- Column headers must match as following: 
+
+`FID,Target,IndivID,FathID,MothID,Sex 1=m / 2=v,Twin,Dead,Age,Yob,diag1,diag2,diag3,diag4,diag5`
+
+Specify as many `diag*` fields as required
 
 ## No tests / no warranty
 
