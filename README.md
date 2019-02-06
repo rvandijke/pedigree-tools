@@ -11,6 +11,10 @@ Install with pip:
 
 `pip install git+https://github.com/rvandijke/pedigree-tools.git`
 
+# Launching
+
+Launch `pedigree-tools` to start the script.
+
 ## Rules
 
 The following rules are applied (in this order):
